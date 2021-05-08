@@ -1,3 +1,6 @@
+pbr>=3.1.1 # Apache-2.0
+defusedxml>=0.6.0 # PSF
+
 asgiref==3.3.4
 Django==3.2.2
 pytz==2021.1
