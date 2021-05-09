@@ -8,6 +8,7 @@ eggs/
 .eggs/
 lib/
 lib64/
+bin/
 parts/
 sdist/
 var/
@@ -17,3 +18,6 @@ share/
 .installed.cfg
 *.egg
 MANIFEST
+**/__pycache__/
+.vscode/
+pyvenv.cfg
